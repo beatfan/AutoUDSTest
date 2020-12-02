@@ -9,11 +9,11 @@ This is for auto uds test tool
 Syntax highlighted code block
 
 # History
-## Version List
-### Version
+## Version
+### Version List
 
--- **[3.8.0](https://github.com/beatfan/AutoUDSTest/releases/download/3.8.0/AutoUDSTest_v3.8.7z)** : 
--- _[3.7.0](https://github.com/beatfan/AutoUDSTest)_
+-- [**3.8.0**](https://github.com/beatfan/AutoUDSTest/releases/download/3.8.0/AutoUDSTest_v3.8.7z) 
+-- [_3.7.0_](https://github.com/beatfan/AutoUDSTest)
 
 
 ### Support or Contact
