@@ -1,6 +1,6 @@
 ## Welcome to AutoUDSTest GitHub Pages, Author Beatfan
 
-You can visit my Github Repository https://github.com/beatfan/AutoUDSTest
+You can visit my Github Repository [AutoUDSTest](https://github.com/beatfan/AutoUDSTest)
 ### Markdown
 
 This is for auto uds test tool
@@ -12,23 +12,10 @@ Syntax highlighted code block
 ## Version List
 ### Version
 
-- Bulleted
-- List
+-- **[3.8.0](https://github.com/beatfan/AutoUDSTest/releases/download/3.8.0/AutoUDSTest_v3.8.7z)** : 
+-- _[3.7.0](https://github.com/beatfan/AutoUDSTest)_
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beatfan/AutoUDSTest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? send mail to 1020893917@qq.com
