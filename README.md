@@ -1,2 +1,5 @@
 # AutoUDSTest
-App update test, OTA
+
+
+Change Log:
+1. Add static page, https://beatfan.github.io/AutoUDSTest/
